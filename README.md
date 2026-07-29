@@ -1,1 +1,4 @@
 # Relat-rio-1-semestre.-
+As aulas de tecnologia e informação, no primeiro semestre, foram muito importantes para compreendermos como funciona a organização de uma empresa utilizando aplicativos como o Excel. 
+Durante estas, aprendemos a criar planilhas no programa, colocar fórmulas nas tabelas para facilitar a colocação de dados, aplicar filtros e lista de escolha para maior acessibilidade, fixar celulas, elaborar gráficos para auxiliar na representação das informações das planilhas, inserir botões, e entre outros comandos facilitadores para otimizar o trabalho nas planilhas. 
+A cada aula, tivemos que colocar o aprendido nos vídeos em prática, abrindo nosso arquivo e replicando o que vimos nos vídeos apresentados pelo professor no início da aula. Toda essa experiência teve suma importância, nos ensina corretamente  como funciona o trabalho de planilhas no Excel nas empresas, além de nos preparar para uma futura vida profissional em uma empresa. 
